@@ -32,7 +32,7 @@ requirements:
     - {{ posix }}zip               # [win]
     - cross-r-base {{ r_base }}    # [build_platform != target_platform]
   host:
-    - libwinpthread  # [win]
+    - winpthreads-devel  # [win]
     - r-base
     - r-rcpp >=1.0.5
   run:
