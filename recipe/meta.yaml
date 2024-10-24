@@ -35,6 +35,7 @@ requirements:
     - r-base
     - r-rcpp >=1.0.5
   run:
+    - libwinpthread  # [win]
     - r-base
     - r-rcpp >=1.0.5
 
