@@ -198,5 +198,4 @@ Feedstock Maintainers
 =====================
 
 * [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
-* [@cpalmer718](https://github.com/cpalmer718/)
 
